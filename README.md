@@ -57,6 +57,19 @@ if err != nil {
 fmt.Printf("Authenticated as: %s#%s\n", response.Data.User.Username, response.Data.User.Discriminator)
 ```
 
+## Roadmap
+
+- [x] Initialize project and repository
+- [x] Implement handshake functionality for Discord RPC
+- [ ] Create basic API for setting rich presence
+- [ ] Implement heartbeat events for keeping the connection active
+- [ ] Implement automatic reconnection
+- [ ] Add support for a configuration file to configure RPC details dynamically at runtime
+- [ ] Improve error handling and logging
+- [ ] Implement multi-platform support ( MacOS & Windows )
+- [ ] Optimize IPC communication for performance
+- [ ] Add examples and improve documentation
+
 ## License
 
 This project is licensed under the **MIT License**.
