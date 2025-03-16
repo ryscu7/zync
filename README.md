@@ -8,7 +8,7 @@ A Go library for interacting with **Discord Rich Presence** by **Inter Process C
 ## Features
 
 - **Inter Process Communication**: Zync interacts with Discord Rich Presence via Inter Process Communication( IPC ) which provides more control over the customization.
-- **Cross Platform Support**( Windows support isn't available yet )
+- **Cross Platform Support**( Windows & MacOS support isn't available yet )
 - **Extremely Lightweight**: Zync only uses the standard library, making it extremely lightweight for use.
 - **Standalone CLI Tool**( Upcoming )
 
