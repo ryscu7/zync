@@ -14,7 +14,7 @@ A Go library for interacting with **Discord Rich Presence** by **Inter Process C
 
 ## Installation
 
-```go
+```sh
 
 go get github.com/ryscu7/zync
 ```
