@@ -1,5 +1,8 @@
 # Zync
 
+> [!IMPORTANT]
+> This project is currently incomplete and under heavy development and might introduce breaking changes in the future!
+
 A Go library for interacting with **Discord Rich Presence** by **Inter Process Communication**( IPC ).
 
 ## Features
